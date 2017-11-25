@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "siga habitat": "siga-habitat",
+    "default": "siga-habitat"
+  }
+}
